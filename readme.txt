@@ -12,7 +12,7 @@ PerformerJS allows you to add really cool effects and features to your website b
 
 For beginners:
 
-Ever wanted to put those really great effects on your website, but didn’t know how to start? Yeah, so have we. That’s why we wrote [Performer](http://performerjs.org "JavaScript without the code") – to take away the pain. AJAX, toggling visibility, form and password checking, tabbing, inline editing and more. We’ve got it all. Check out [all the features here](http://performerjs.org/docs "The full list of Performer features"), or download the PerformerJS plugin to get started.
+Ever wanted to put those really great effects on your website, but didn't know how to start? Yeah, so have we. That's why we wrote [Performer](http://performerjs.org "JavaScript without the code") – to take away the pain. AJAX, toggling visibility, form and password checking, tabbing, inline editing and more. We've got it all. Check out [all the features here](http://performerjs.org/docs "The full list of Performer features"), or download the PerformerJS plugin to get started.
 
 For intermediate developers:
 
@@ -20,9 +20,9 @@ Performer allows you to easily add JavaScript features – like AJAX stuff – to yo
 
 For advanced developers:
 
-Prototype allows you to easily add JavaScript features to your pages using nothing but CSS classes and other standard element attributes. Using the power of a JavaScript library (there’s a list of libraries Performer supports below) means you have to write less JavaScript code to get things done. But even that isn’t enough. For simple effects and functions wouldn’t it be great to add the JavaScript functionality as you build the HTML of a page? See the Getting Started section for some simple examples.
+Prototype allows you to easily add JavaScript features to your pages using nothing but CSS classes and other standard element attributes. Using the power of a JavaScript library (there's a list of libraries Performer supports below) means you have to write less JavaScript code to get things done. But even that isn't enough. For simple effects and functions wouldn't it be great to add the JavaScript functionality as you build the HTML of a page? See the Getting Started section for some simple examples.
 
-To be clear; Performer works with your JavaScript library to make it easier to add simple functionality to your page. While it may be possible to write an entire complex web application interface using Performer, I don’t recommend it. Check out [the Documentation](http://performerjs.org/docs "The full list of Performer features") for full details on all features Performer supports.
+To be clear; Performer works with your JavaScript library to make it easier to add simple functionality to your page. While it may be possible to write an entire complex web application interface using Performer, I don't recommend it. Check out [the Documentation](http://performerjs.org/docs "The full list of Performer features") for full details on all features Performer supports.
 
 And if you don't have one of the supported JavaScript libraries already in use on your site, PerformerJS will automatically include the latest version of [jQuery](http://jquery.com "The best JavaScript library") from the Google AJAX API site.
 
