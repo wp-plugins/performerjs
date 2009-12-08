@@ -12,11 +12,11 @@ PerformerJS allows you to add really cool effects and features to your website b
 
 For beginners:
 
-Ever wanted to put those really great effects on your website, but didn't know how to start? Yeah, so have we. That's why we wrote [Performer](http://performerjs.org "JavaScript without the code") – to take away the pain. AJAX, toggling visibility, form and password checking, tabbing, inline editing and more. We've got it all. Check out [all the features here](http://performerjs.org/docs "The full list of Performer features"), or download the PerformerJS plugin to get started.
+Ever wanted to put those really great effects on your website, but didn't know how to start? Yeah, so have we. That's why we wrote [Performer](http://performerjs.org "JavaScript without the code") - to take away the pain. AJAX, toggling visibility, form and password checking, tabbing, inline editing and more. We've got it all. Check out [all the features here](http://performerjs.org/docs "The full list of Performer features"), or download the PerformerJS plugin to get started.
 
 For intermediate developers:
 
-Performer allows you to easily add JavaScript features – like AJAX stuff – to your pages using nothing but CSS classes and other standard element attributes, like rel and rev. There are [a wide range of features available](http://performerjs.org/docs "The full list of Performer features") and Performer works with jQuery, MooTools and Prototype.
+Performer allows you to easily add JavaScript features - like AJAX stuff - to your pages using nothing but CSS classes and other standard element attributes, like rel and rev. There are [a wide range of features available](http://performerjs.org/docs "The full list of Performer features") and Performer works with jQuery, MooTools and Prototype.
 
 For advanced developers:
 
