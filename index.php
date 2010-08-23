@@ -2,14 +2,14 @@
 /**
  * @package PerformerJS
  * @author Chris Taylor
- * @version 1.0
+ * @version 1.0.1
  */
 /*
 Plugin Name: PerformerJS
 Plugin URI: http://performerjs.org/
 Description: Performer is a JavaScript class that works with your favourite library (jQuery, Prototype, Scriptaculous and MooTools are currently supported) giving you simple JavaScript features in your web pages without having to write any JavaScript code. Using standard element attributes such as 'class' you can do AJAX requests, toggle the visibility of elements, check form inputs and much more. A full list of the features available, with documentation, <a href="http://performerjs.org/docs">is available here</a>.
 Author: Chris Taylor
-Version: 1.0
+Version: 1.0.1
 Author URI: http://www.stillbreathing.co.uk/
 */
 
@@ -21,8 +21,16 @@ if ((!window.Prototype || typeof window.Prototype == "undefined") && (!window.Mo
 	document.write("<"+"script type=\'text/javascript\' src=\'http://www.google.com/jsapi\'><"+"/script>");
 	document.write("<"+"script type=\"text/javascript\">google.load(\'jquery\', \'1\');<"+"/script>");
 }
+if (window.Prototype){
+	document.write("<"+"script type=\'text/javascript\' src=\'' . get_option("siteurl ") . '/wp-content/plugins/performerjs/performer.prototype.min.js\'><"+"/script>");
+}
+if (window.MooTools){
+	document.write("<"+"script type=\'text/javascript\' src=\'' . get_option("siteurl ") . '/wp-content/plugins/performerjs/performer.mootools.min.js\'><"+"/script>");
+}
+if (window.jQuery){
+	document.write("<"+"script type=\'text/javascript\' src=\'' . get_option("siteurl ") . '/wp-content/plugins/performerjs/performer.jquery.min.js\'><"+"/script>");
+}
 </script>
-<script src="' . get_option("siteurl ") . '/wp-content/plugins/performerjs/performer-min.js" type="text/javascript"></script>
 ';
 }
 

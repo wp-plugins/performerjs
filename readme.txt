@@ -4,7 +4,7 @@ Donate link: http://www.stillbreathing.co.uk/donate/
 Tags: performer, javascript, html, css, interaction, ajax
 Requires at least: 2.7
 Tested up to: 2.8.4
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 PerformerJS allows you to add really cool effects and features to your website by doing some simple editing of the HTML code in your pages.
 
@@ -65,6 +65,10 @@ No screenshots needed.
 This is the first version.
 
 == Changelog ==
+
+= 1.0.1 =
+
+Updated to version 1.0.1 of the library, enabled loading of customised jQuery, Prototype and MooTools version
 
 = 1.0 =
 
