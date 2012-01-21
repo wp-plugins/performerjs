@@ -2,14 +2,14 @@
 /**
  * @package PerformerJS
  * @author Chris Taylor
- * @version 1.0.3
+ * @version 1.0.4
  */
 /*
 Plugin Name: PerformerJS
 Plugin URI: http://performerjs.org/
 Description: Performer is a JavaScript class that works with your favourite library (jQuery, Prototype, Scriptaculous and MooTools are currently supported) giving you simple JavaScript features in your web pages without having to write any JavaScript code. Using standard element attributes such as 'class' you can do AJAX requests, toggle the visibility of elements, check form inputs and much more. A full list of the features available, with documentation, <a href="http://performerjs.org/docs">is available here</a>.
 Author: Chris Taylor
-Version: 1.0.3
+Version: 1.0.4
 Author URI: http://www.stillbreathing.co.uk/
 */
 

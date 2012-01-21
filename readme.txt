@@ -3,8 +3,8 @@ Contributors: mrwiblog
 Donate link: http://www.stillbreathing.co.uk/donate/
 Tags: performer, javascript, html, css, interaction, ajax
 Requires at least: 2.7
-Tested up to: 2.8.4
-Stable tag: 1.0.3
+Tested up to: 3.3.1
+Stable tag: 1.0.4
 
 PerformerJS allows you to add really cool effects and features to your website by doing some simple editing of the HTML code in your pages.
 
@@ -54,7 +54,7 @@ There's loads more information in [the Documentation](http://performerjs.org/doc
 
 = And the Wordpress plugin? =
 
-This plugin simply includes the Performer JavaScript file using the 'admin_head' (yes, Performer in the admin area) and 'wp_foot' hooks. However it first checks to see if one of the support JavaScript libraries is present, and if not includes the jQuery library using the Google AJAX API.
+This plugin simply includes the Performer JavaScript file using the 'admin_head' (yes, Performer in the admin area) and 'wp_footer' hooks. However it first checks to see if one of the support JavaScript libraries is present, and if not includes the jQuery library using the Google AJAX API.
 
 == Screenshots ==
 
@@ -65,6 +65,10 @@ No screenshots needed.
 This is the first version.
 
 == Changelog ==
+
+= 1.0.4 =
+
+Added delay parameter to Looper, allowing for slideshows. Fixed some bugs.
 
 = 1.0.3 =
 
